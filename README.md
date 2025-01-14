@@ -7,7 +7,7 @@ Para este proyecto he usado el entorno de Dbeaver con PostgreSQL para la realiza
 ## Contenido
 - **Archivos principales**: 'DataProject_Script.sql' y 'BBDD_Proyecto'
 - **Archivos secundarios**: 'DataProject_diagram.png'
-- **Descripción: La base de datos usada es 'BBDD_Proyecto', mientras en el archivo 'DataProject_Script.sql' se encuentran un total de 64 consultas realizadas con SQL. El primer ejercicio es la creación del esquema o diagrama de la base de datos, exportada en imagen png 'DataProject_diagram.png'.
+- **Descripción**: La base de datos usada es 'BBDD_Proyecto', mientras en el archivo 'DataProject_Script.sql' se encuentran un total de 64 consultas realizadas con SQL. El primer ejercicio es la creación del esquema o diagrama de la base de datos, exportada en imagen png 'DataProject_diagram.png'.
 
 ## Uso
 1. Descarga la base de datos 'BBDD_Proyecto'
